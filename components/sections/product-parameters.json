@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_sections_product_parameters",
+  "info": {
+    "name": "Product parameters",
+    "icon": "pencil-alt",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "paramater_name": {
+      "type": "string"
+    },
+    "parameter_info": {
+      "type": "string"
+    }
+  }
+}
